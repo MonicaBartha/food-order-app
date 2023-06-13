@@ -6,8 +6,8 @@ ReactJS, React Context, CSS modules
 
 #### Home
 
-![Home](/assets/home.PNG)
+![Home](/src/assets/home.PNG)
 
 #### Cart component
 
-![Cart](/assets/Cart.PNG)
+![Cart](/src/assets/Cart.PNG)
