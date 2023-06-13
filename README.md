@@ -11,3 +11,7 @@ ReactJS, React Context, CSS modules
 #### Cart component
 
 ![Cart](/src/assets/Cart.PNG)
+
+#### Deploy
+
+https://monicabartha.github.io/food-order-app/
